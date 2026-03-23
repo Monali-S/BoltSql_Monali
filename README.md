@@ -1,6 +1,6 @@
 # BoltSql_Monali
 **Exercise 1 — Tasks**
-1.Find the title of each film 
+1. Find the title of each film 
 (SELECT title FROM movies;)
 2. Find the director of each film 
 (SELECT director FROM movies;)
